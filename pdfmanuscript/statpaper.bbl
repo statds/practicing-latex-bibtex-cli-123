@@ -1,0 +1,27 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Ananth and Kleinbaum}{Ananth and
+  Kleinbaum}{1997}]{ananth1997regression}
+Ananth, C.~V. and D.~G. Kleinbaum (1997).
+\newblock Regression models for ordinal responses: a review of methods and
+  applications.
+\newblock {\em International journal of epidemiology\/}~{\em 26\/}(6),
+  1323--1333.
+
+\bibitem[\protect\citeauthoryear{Hu, Harris, Timmerman, and Lu}{Hu
+  et~al.}{2023}]{hu2023hierarchical}
+Hu, Y., R.~Harris, R.~Timmerman, and B.~Lu (2023).
+\newblock A hierarchical and geographically weighted regression model and its
+  backfitting maximum likelihood estimator (short paper).
+\newblock In {\em 12th International Conference on Geographic Information
+  Science (GIScience 2023)}. Schloss Dagstuhl-Leibniz-Zentrum f{\"u}r
+  Informatik.
+
+\bibitem[\protect\citeauthoryear{Poole and O'Farrell}{Poole and
+  O'Farrell}{1971}]{poole1971assumptions}
+Poole, M.~A. and P.~N. O'Farrell (1971).
+\newblock The assumptions of the linear regression model.
+\newblock {\em Transactions of the Institute of British Geographers\/},
+  145--158.
+
+\end{thebibliography}
